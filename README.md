@@ -44,7 +44,7 @@ Training and evaluation are performed on an 80/20 train/test split.
 
 ### Evaluation
 
-The models were evaluated on the test set (20% of the data) and using 5-fold cross-validation.
+The models were evaluated on the test set and using 5-fold cross-validation.
 
 #### Logistic Regression
 
