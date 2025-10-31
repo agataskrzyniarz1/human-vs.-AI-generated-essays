@@ -62,12 +62,12 @@ Accuracy (test): 0.998
 
 5-fold CV mean accuracy: 0.968
 
+### Top Features
+
+The script identifies the top 20 words/phrases indicative of AI-generated essays and human-written essays using the SVM model coefficients. This helps understand which patterns are most discriminative.
+
 ### User Input Prediction
 
 Users can input their own essay text for classification. The model returns:
 - Predicted class: human or AI-generated
 - Confidence score
-
-### Top Features
-
-The script identifies the top 20 words/phrases indicative of AI-generated essays and human-written essays using the SVM model coefficients. This helps understand which patterns are most discriminative.
